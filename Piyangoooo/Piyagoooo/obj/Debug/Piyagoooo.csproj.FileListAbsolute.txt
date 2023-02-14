@@ -1,0 +1,18 @@
+C:\Users\HASAN-HÜSEYİN\Desktop\Piyagoooo\Piyagoooo\bin\Debug\Piyagoooo.exe.config
+C:\Users\HASAN-HÜSEYİN\Desktop\Piyagoooo\Piyagoooo\bin\Debug\Piyagoooo.exe
+C:\Users\HASAN-HÜSEYİN\Desktop\Piyagoooo\Piyagoooo\bin\Debug\Piyagoooo.pdb
+C:\Users\HASAN-HÜSEYİN\Desktop\Piyagoooo\Piyagoooo\obj\Debug\Piyagoooo.csprojResolveAssemblyReference.cache
+C:\Users\HASAN-HÜSEYİN\Desktop\Piyagoooo\Piyagoooo\obj\Debug\Piyagoooo.Form1.resources
+C:\Users\HASAN-HÜSEYİN\Desktop\Piyagoooo\Piyagoooo\obj\Debug\Piyagoooo.Properties.Resources.resources
+C:\Users\HASAN-HÜSEYİN\Desktop\Piyagoooo\Piyagoooo\obj\Debug\Piyagoooo.csproj.GenerateResource.Cache
+C:\Users\HASAN-HÜSEYİN\Desktop\Piyagoooo\Piyagoooo\obj\Debug\Piyagoooo.exe
+C:\Users\HASAN-HÜSEYİN\Desktop\Piyagoooo\Piyagoooo\obj\Debug\Piyagoooo.pdb
+C:\Users\HASAN-HÜSEYİN\Documents\Hüseyin\Yazılım12 Ders\Ders7\Ödev\Piyangoooo\Piyagoooo\bin\Debug\Piyagoooo.exe.config
+C:\Users\HASAN-HÜSEYİN\Documents\Hüseyin\Yazılım12 Ders\Ders7\Ödev\Piyangoooo\Piyagoooo\obj\Debug\Piyagoooo.exe
+C:\Users\HASAN-HÜSEYİN\Documents\Hüseyin\Yazılım12 Ders\Ders7\Ödev\Piyangoooo\Piyagoooo\obj\Debug\Piyagoooo.pdb
+C:\Users\HASAN-HÜSEYİN\Documents\Hüseyin\Yazılım12 Ders\Ders7\Ödev\Piyangoooo\Piyagoooo\bin\Debug\Piyagoooo.exe
+C:\Users\HASAN-HÜSEYİN\Documents\Hüseyin\Yazılım12 Ders\Ders7\Ödev\Piyangoooo\Piyagoooo\bin\Debug\Piyagoooo.pdb
+C:\Users\HASAN-HÜSEYİN\Documents\Hüseyin\Yazılım12 Ders\Ders7\Ödev\Piyangoooo\Piyagoooo\obj\Debug\Piyagoooo.csprojResolveAssemblyReference.cache
+C:\Users\HASAN-HÜSEYİN\Documents\Hüseyin\Yazılım12 Ders\Ders7\Ödev\Piyangoooo\Piyagoooo\obj\Debug\Piyagoooo.Form1.resources
+C:\Users\HASAN-HÜSEYİN\Documents\Hüseyin\Yazılım12 Ders\Ders7\Ödev\Piyangoooo\Piyagoooo\obj\Debug\Piyagoooo.Properties.Resources.resources
+C:\Users\HASAN-HÜSEYİN\Documents\Hüseyin\Yazılım12 Ders\Ders7\Ödev\Piyangoooo\Piyagoooo\obj\Debug\Piyagoooo.csproj.GenerateResource.Cache
